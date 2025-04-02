@@ -6,7 +6,7 @@ A fun and interactive **Memory Game** built using **HTML, CSS, and JavaScript**.
 
 ## 🎮 Demo
 
-🔗 [Let's Play](https://memory-game-rho-ashen.vercel.app/) *(Replace with actual URL)*
+🔗 [Let's Play](https://memory-game-rho-ashen.vercel.app/)
 
 ## 🚀 Features
 
